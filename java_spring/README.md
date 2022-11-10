@@ -4,7 +4,9 @@
 
 ## Setup
 
-- Install [JDK 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+- Install [JDK 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)¹
+
+¹IntelliJ probably asks you if it should install the JDK for you
 
 ## Build Project
 
